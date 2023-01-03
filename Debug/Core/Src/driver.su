@@ -1,0 +1,4 @@
+../Core/Src/driver.c:34:6:writePin	16	static
+../Core/Src/driver.c:39:6:togglePin	16	static
+../Core/Src/driver.c:44:6:readPin	16	static
+../Core/Src/driver.c:49:6:writePWM	16	static
